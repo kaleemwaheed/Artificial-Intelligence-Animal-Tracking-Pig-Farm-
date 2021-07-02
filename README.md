@@ -10,4 +10,4 @@ The main goal of this project is to track pig activity in a farm.
 -- Integrate Skov Animal/Pig tracking Service to this project live data tracking skov.com
 
 
-NOTE: Working for private company , project running in live environment Contact: kaleemwaheed07@gmail.com
+NOTE: Working for private company , project running on live environment(china) Contact: kaleemwaheed07@gmail.com
