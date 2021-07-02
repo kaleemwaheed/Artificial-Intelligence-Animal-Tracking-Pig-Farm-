@@ -8,3 +8,6 @@ The main goal of this project is to track pig activity in a farm.
 6) Pig distribution index  Main libraries used in this project are pytorch , tensorflow ,keras , numpy ,pandas , opencv 
 2nd phase of this project is ERP Web Portal that developed on django framework with mongodb. 
 -- Integrate Skov Animal/Pig tracking Service to this project live data tracking skov.com
+
+
+NOTE: Working for private company , project running in live environment
